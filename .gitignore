@@ -1,6 +1,8 @@
 .env
 node_modules
 /server/node_modules
-
 /server/.env
 /server/.env.local
+
+/client/node_modules
+/client/.env
